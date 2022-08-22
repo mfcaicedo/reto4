@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import reto4variantecarretera.Corredor;
 
 /**
- * Ejemplo de clases
+ * Ejemplo de clases dia 22 de agosto
  * @author 
  */
 public class Solucion {
